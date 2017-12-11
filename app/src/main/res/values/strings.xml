@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NotMusicPlayer</string>
+    <string name="library">Library</string>
+    <string name="details">Details</string>
+    <string name="payment">Payment</string>
+    <string name="artist1">Pearl Jam</string>
+    <string name="artist2">Nirvana</string>
+    <string name="artist3">Foo Fighters</string>
+    <string name="song1">Even Flow</string>
+    <string name="song2">Smells Like Teen Spirit</string>
+    <string name="song3">Doll</string>
+    <string name="list">Library</string>
+    <string name="main_description">This is your main page. You can see the now playing song or go to your library using the button above. The MediaPLayer API may be used to control play/pause and next/previous buttons</string>
+    <string name="library_description">Here is your library, you can see all songs available to play or purchase. Or you can go to the now playing page using the top bar.</string>
+    <string name="payment_method">If the music is not available to play, you need to make a purchase. The card widget input is made using Stripe library.</string>
+    <string name="details_description">The details of the selected song will be shown here. You can go back using the arrow in the bar above or go to the playing song. If the song is available to play, there will be a play button on the bottom of the page. Otherwise there will be a payment method</string>
+</resources>
